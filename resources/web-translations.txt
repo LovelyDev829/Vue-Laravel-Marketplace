@@ -1,0 +1,353 @@
+Dashboard
+Popular Categories
+Todays Deal
+Get your special offers, Coupons & More...
+Contact Us
+Mobile Apps
+Address
+Name
+Email
+Phone
+Subscribe
+Your email address
+forgot password
+or...
+Play Store
+App Store
+Track Order
+Help Line
+Wishlist
+Search
+Login
+Registration
+Register
+Logout
+Talk With Us
+You have to
+as a customer to contact us
+or
+Most popular
+Latest first
+Oldest first
+Higher price first
+Lower price first
+Higher rating first
+Lower rating first
+All Star
+star
+Sort by
+Product
+products
+Total
+products found
+Search results for
+No product found
+min price
+max price
+Go
+All products
+Categories
+Filters
+Price
+Unit price
+Discounted price
+Total Price
+Brands
+Login
+Order code
+Track
+All categories
+All brands
+All offers
+Estimated delivery time
+days
+View other products
+Add to Cart
+View All
+A verification code has been sent to your email.
+A verification code has been sent to your phone number.
+Payment failed!!
+Your order has been placed. But failed to complete the payment. Please try again or contact our support.
+Try again
+Close
+Address
+Addresses
+Postal Code
+Country
+State
+Select country
+Phone Number
+Cancel
+Update
+Add New
+Select a city
+Select a state
+This field is required.
+This field is required a valid email.
+Password must be minimum 6 characters.
+Password and confirm password should match.
+Something went wrong
+Login with
+Account
+Email address
+or
+Signup
+Don't have an account
+Already have an account
+Search for products, brands and more...
+No
+Yes
+item(s)
+Have a code?
+Change
+Apply
+Checkout
+Please select a cart product
+Order Placed
+Confirmed
+Shipped
+Delivered
+Order Summary
+Shipping Address
+Total Order Amount
+Payment Method
+Payment Status
+Billing Address
+Order Details
+Quantity
+Tax
+Unit tax
+Sub Total
+Shipping Charge
+Discount
+Coupon discount
+OFF
+In Stock
+Out of Stock
+Out of
+Ratings
+Product Reviews
+Sort
+No reviews found for this product
+Purchase History
+Wishlist
+Manage Profile
+My Wallet
+Payment Options
+Recharge Amount
+Recharge Wallet
+Please select a payment method
+Please input recharge amount
+Amount
+FORGOT
+Password
+Old Password
+Enter your email address to recover your password
+Enter your phone number to recover your password
+Enter your email or your phone number to recover your password
+Send Password Reset Code
+Back to
+RESET
+Code
+Enter your email address, Code & New Password
+Enter your phone number, Code & New Password
+Confirm Password
+Reset Password
+WELCOME TO
+Full Name
+Phone number must be valid.
+By signing up you agree to our
+terms and conditions
+Create Account
+Join With
+Don't have an account
+VERIFY
+Enter your email address, verification code
+Enter your phone number, verification code
+Verify
+Resend Code
+THE PAGE YOU ARE LOOKING WAS NOT
+IN THIS PLANET
+BACK TO HOME
+Newly Added Products
+Wallet Balance
+Last Recharge
+Products in Your Cart
+Products in Your Wishlist
+Products You Ordered
+Recent Purchase History
+My Wishlist
+Default Shipping Address
+Add New Address
+Recently Viewed
+Profile
+Profile Information
+New Password
+Profile Image
+Select Image
+Default Shipping Address
+Default Billing Address
+All Addresses
+Edit
+Mark as default shipping address
+Mark as default billing address
+Delete
+No saved address
+Loading... Please wait
+Details
+Delivery Status
+Options
+Generating invoice...
+Confirm cancel
+Are you sure you want to cancel this order?
+Cancelling order...
+Wallet Recharge History
+Date
+No product wishlisted
+Delivery Option
+Standard Delivery
+Delivery cost
+Delivery timing
+Express Delivery
+Sorry, delivery is not available in this shipping address.
+TOTAL TO PAY
+Your wallet balance
+Remaining balance
+By clicking proceed, I agree to
+Proceed
+Thank You for Your Order
+A copy of your order summary has been sent to
+Remove from Wishlist
+Add to Wishlist
+Ask about this product
+Share
+Rating & Reviews
+Description
+Frequently Bought Together
+More Items to Explore
+Warranty Available
+View Warranty Policy
+Related Products
+Please select all options
+This product is out of stock
+You need to purchase minimum quantity
+You can purchase maximum quantity
+Product added to cart.
+Track your order
+Wallet successfully recharged!
+Wallet recharge failed!
+Login successfull.
+Applied coupon code is no applicable for your selected cart products.
+Minimum order total of
+is required to use applied coupon code.
+Delivery type
+Rate and review purchased product
+Submit
+Write a review
+View details
+Download invoice
+Cancel order
+Cancelled
+This product is not available.
+Rating
+Comment
+You've already reviewed this product. You can update the review.
+Your review has been disabled.
+Home
+Messages
+Cart
+Account
+Change language
+Show more
+Show less
+Buy Now
+Your shopping bag is empty. Start shopping.
+Coupons
+Copy Code
+Code copied to clipboard
+Pay with wallet
+Become a Seller with
+All shops
+Visit Store
+Follow
+Unfollow
+Shop since
+Total Products
+Ratings
+All Shops
+Featured Products
+New Arrival
+Best Rated
+Best Selling
+Store
+View All Products of This Shop
+All coupons
+Shop
+Followed shops
+No followed shop found
+QTY
+shop
+Sort by brand
+Sort by category
+No data available
+Be a Seller
+Seller Zone
+Login to Seller Panel
+Already a Seller?
+Register your shop
+Personal information
+Shop information
+Register Shop
+Info
+Refund Product quantity can not be greater than the ordered product quantity
+Refund information
+Refund amount
+Refund reasons
+Refund note
+Attachments
+Request Refund
+shops
+Congratulations! You reached the minimum order amount.
+You need to reach
+to place order from this shop.
+to place order from
+Loading please wait
+Status
+Create new refund request
+Refund requests
+Pending
+Accepted
+Rejected
+Choose One
+Select images
+Please select a product
+Actions
+Wallet history
+Added
+Deducted
+Actions
+We will get back to very soon
+Tracking information
+Courier name
+Tracking number
+Tracking url
+Track
+use phone instead
+Conversations
+No Conversation Found
+My Conversations
+Message Seller
+Any query about this product
+Product Name
+Question
+Send
+Title
+Message has been sent to seller
+Conversation with
+Ask about this product
+Product Query
+Product Querries
+My Querries
+New
+Query With
+Contact Admin

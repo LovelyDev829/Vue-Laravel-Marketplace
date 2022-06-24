@@ -1,0 +1,31 @@
+{
+    "root": true,
+    "env": {
+        "node": true,
+        "mocha": true
+    },
+    "extends": ["eslint:recommended", "plugin:vue/vue3-recommended", "prettier"],
+    "rules": {
+        "vue/require-default-prop": "off",
+        "vue/script-indent": ["error", 4],
+        "vue/html-indent": [
+            "error",
+            4,
+            {
+                "attribute": 1,
+                "baseIndent": 1,
+                "closeBracket": 0,
+                "alignAttributesVertically": true,
+                "ignores": []
+            }
+        ],
+        "vue/order-in-components": 0,
+        "vue/multi-word-component-names": 0
+    },
+    "parserOptions": {
+        "parser": "babel-eslint",
+        "sourceType": "module",
+        "allowImportExportEverywhere": true,
+        "ecmaVersion": 2019
+    }
+}
